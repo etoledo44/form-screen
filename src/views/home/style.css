@@ -36,3 +36,6 @@ body{
 .form-inline .btn{
     height: 30px;
 }
+.text-center .link{
+    text-decoration: none;
+}
