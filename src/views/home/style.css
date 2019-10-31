@@ -1,0 +1,38 @@
+body{
+    background-image: url('https://theawesomedaily.com/wp-content/uploads/2018/07/cool-backgrounds-feat-1-620x350.jpg');
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.error{
+    font-weight: lighter;
+    display: block;
+    color: rgb(199, 28, 28);
+    font-size: 15px;
+}
+.card{
+    font-weight: bold;
+    margin: auto;
+    align-content: center;
+    opacity: 0.6;
+    width: 500px;
+    height: 100%;
+    border-bottom: 3px solid #343a40;
+
+}
+.card-header{
+    color: white;
+    background-color: #343a40;
+}
+.navbar{
+    color: white !important;
+    opacity: 0.6;
+    background-color: #343a40 ;
+    border-bottom: 2px solid #343a40;
+}
+.form-inline .form-control{
+    height: 30px;
+}
+.form-inline .btn{
+    height: 30px;
+}
